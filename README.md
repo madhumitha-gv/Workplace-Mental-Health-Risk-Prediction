@@ -86,15 +86,6 @@ Production-ready REST API:
 - Auto-generated docs at `/docs`
 
 ---
-
-## What's Still To Do (Hackathon Deliverables)
-
-- [ ] **Clustering** — K-Means / DBSCAN worker profiling into 3 groups with top 3 features per cluster
-- [ ] **Correlation analysis** — Explicit 5 top-pair correlations per index + heatmap visualizations
-- [ ] **Excel submission** — `submission_output_template.xlsx` with feature engineering, ML, and clustering results in required format
-- [ ] **Results document** — Max 8-page PDF with methodology, key findings, visualizations, and business recommendations
-- [ ] **Jupyter notebook** — Reproducible `Mental_Health_Analysis.ipynb` tying everything together
-
 ---
 
 ## Quickstart
@@ -178,15 +169,7 @@ Workplace-Mental-Health-Risk-Prediction/
 
 ---
 
-## Evaluation Criteria (EY Hackathon)
 
-| Area | Weight | Status |
-|---|---|---|
-| Feature Engineering | 30% | ✅ 3 indices implemented |
-| Model Interpretability | 50% | ✅ SHAP + risk levels + recommendations |
-| Clustering | 20% | 🔲 Pending |
-
----
 
 ## Tech Stack
 
