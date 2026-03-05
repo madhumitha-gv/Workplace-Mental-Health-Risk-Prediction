@@ -1,6 +1,6 @@
 # Workplace Mental Health Risk Prediction
 
-> **EY Hackathon — Predictive Model for Mental Health Risk**
+> **Predictive Model for Mental Health Risk**
 > Built using traditional ML techniques to assess mental health risk in tech industry workplaces, with early detection and actionable insights for HR and mental health professionals.
 
 ---
